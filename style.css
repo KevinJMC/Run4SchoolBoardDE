@@ -15,6 +15,7 @@
     text-overflow: ellipsis;
     width: 400px;
     float: right;
+    margin-top: 10px;
 }
 
 #pac-input:focus {
